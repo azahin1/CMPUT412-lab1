@@ -13,7 +13,7 @@ dt-launchfile-init
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
 # launching app
-dt-exec python3 -m "hello_quack.quack"
+dt-exec python3 -m "colour_detector.detect"
 
 # ----------------------------------------------------------------------------
 # YOUR CODE ABOVE THIS LINE
